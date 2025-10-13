@@ -49,25 +49,33 @@ Duix Mobile 支持一键跨平台部署（Android/iOS），上手门槛低，适
 
 ## ✨ 公用数字人下载 
 
-- 以下是 Duix 提供的 4 个公有数字人，可供下载和集成。
+- 以下是 Duix 提供的 6 个公有数字人，可供下载和集成。
 
 <table>
     <tr>
       <td align="center">
-        <img src="./res/avatar/7.jpg" alt="Model 7" width="100%"><br>
-        <a href="https://github.com/duixcom/Duix.mobile/releases/download/v2.0.0/713557460262982_2457fffb22e79c764c9b47d66f50c507.zip">下载</a>
+        <img src="./res/avatar/Emma.jpg" alt="Model 7" width="100%"><br>
+        <a href="https://github.com/duixcom/Duix.mobile/releases/download/v2.0.1/Emma.zip">下载</a>
       </td>
       <td align="center">
-        <img src="./res/avatar/8.png" alt="Model 8" width="100%"><br>
-        <a href="https://github.com/duixcom/Duix.mobile/releases/download/v2.0.0/713276132638789_505586d97c3e935299f57c6262d9ece7_optim_m80.zip">下载</a>
+        <img src="./res/avatar/Kai.jpg" alt="Model 8" width="100%"><br>
+        <a href="https://github.com/duixcom/Duix.mobile/releases/download/v2.0.1/Kai.zip">下载</a>
       </td>
       <td align="center">
-        <img src="./res/avatar/5.jpg" alt="Model 5" width="100%"><br>
-        <a href="https://github.com/duixcom/Duix.mobile/releases/download/v2.0.0/712880634105925_68b3f5a2208cc7438194d9d35fb0d5eb_optim_m80.zip">下载</a>
+        <img src="./res/avatar/Leo.jpg" alt="Model 5" width="100%"><br>
+        <a href="https://github.com/duixcom/Duix.mobile/releases/download/v2.0.1/Leo.zip">下载</a>
       </td>
       <td align="center">
-        <img src="./res/avatar/6.png" alt="Model 6" width="100%"><br>
-        <a href="https://github.com/duixcom/Duix.mobile/releases/download/v2.0.0/713276017438789_23737a8bb6c21137dbdba34ca75b9365_optim_m80.zip">下载</a>
+        <img src="./res/avatar/Oliver.jpg" alt="Model 6" width="100%"><br>
+        <a href="https://github.com/duixcom/Duix.mobile/releases/download/v2.0.1/Oliver.zip">下载</a>
+      </td>
+      <td align="center">
+        <img src="./res/avatar/Sofia.jpg" alt="Model 6" width="100%"><br>
+        <a href="https://github.com/duixcom/Duix.mobile/releases/download/v2.0.1/Sofia.zip">下载</a>
+      </td>
+      <td align="center">
+        <img src="./res/avatar/Lily.jpg" alt="Model 6" width="100%"><br>
+        <a href="https://github.com/duixcom/Duix.mobile/releases/download/v2.0.1/Lily.zip">下载</a>
       </td>
     </tr>
     </table>

@@ -50,21 +50,33 @@ See on Bilibili:
 
 ## ✨ Public Digital Human Downloads
 
-- Below are 4 public digital humans provided by Duix, available for download and integration.
+- Below are 6 public digital humans provided by Duix, available for download and integration.
 
 <table>
     <tr>
       <td align="center">
-        <img src="./res/avatar/7.jpg" alt="Model 7" width="100%">
+        <img src="./res/avatar/Emma.jpg" alt="Model 7" width="100%"><br>
+        <a href="https://github.com/duixcom/Duix.mobile/releases/download/v2.0.1/Emma.zip">Download</a>
       </td>
       <td align="center">
-        <img src="./res/avatar/8.png" alt="Model 8" width="100%">
+        <img src="./res/avatar/Kai.jpg" alt="Model 8" width="100%"><br>
+        <a href="https://github.com/duixcom/Duix.mobile/releases/download/v2.0.1/Kai.zip">Download</a>
       </td>
       <td align="center">
-        <img src="./res/avatar/5.jpg" alt="Model 5" width="100%">
+        <img src="./res/avatar/Leo.jpg" alt="Model 5" width="100%"><br>
+        <a href="https://github.com/duixcom/Duix.mobile/releases/download/v2.0.1/Leo.zip">Download</a>
       </td>
       <td align="center">
-        <img src="./res/avatar/6.png" alt="Model 6" width="100%">
+        <img src="./res/avatar/Oliver.jpg" alt="Model 6" width="100%"><br>
+        <a href="https://github.com/duixcom/Duix.mobile/releases/download/v2.0.1/Oliver.zip">Download</a>
+      </td>
+      <td align="center">
+        <img src="./res/avatar/Sofia.jpg" alt="Model 6" width="100%"><br>
+        <a href="https://github.com/duixcom/Duix.mobile/releases/download/v2.0.1/Sofia.zip">Download</a>
+      </td>
+      <td align="center">
+        <img src="./res/avatar/Lily.jpg" alt="Model 6" width="100%"><br>
+        <a href="https://github.com/duixcom/Duix.mobile/releases/download/v2.0.1/Lily.zip">Download</a>
       </td>
     </tr>
     </table>
