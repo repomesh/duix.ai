@@ -3,7 +3,7 @@
 简体中文 | [English](/README.md)
 
 <a href="https://www.bilibili.com/video/BV1t2g7z3ERK/" target="_blank">
-  <img src="./res/main_video_thumbnail.jpg" alt="Duix Mobile thumbnail">
+  <img src="./res/main_video_thumbnail.webp" alt="Duix Mobile thumbnail">
 </a>
 
 # 🚀🚀🚀 Duix Mobile —— 全网效果最好的移动端【实时对话数字人】
@@ -134,10 +134,6 @@ Duix Mobile 支持一键跨平台部署（Android/iOS），上手门槛低，适
 
 </details>
 
-## 💡 版本计划
-
-- [x]  流式音频能力，2025 年 7 月 16 日上线
-- [ ]  算法响应优化，预计时间：2025 年 8 月 30 日前
 
 ## 📚 相关开源仓库
 
