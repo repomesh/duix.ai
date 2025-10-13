@@ -3,7 +3,7 @@
 [简体中文](/README_zh.md) | English
 
 <a href="https://youtu.be/Po22da20Vc8" target="_blank">
-  <img src="./res/main_video_thumbnail.jpg" alt="Duix Mobile thumbnail">
+  <img src="./res/main_video_thumbnail.webp" alt="Duix Mobile thumbnail">
 </a>
 
 # 🚀🚀🚀 Duix Mobile — The Best Real-time Interactive Digital Human Solution for Mobile Devices
@@ -115,10 +115,6 @@ See on Bilibili:
     Yes, callback events for voice start and end are fully documented.
     
 
-## 💡 Version Roadmap
-
-- [x]  Streaming audio capability, launched on July 16, 2025
-- [ ]  Algorithm response optimization, expected by August 30, 2025
 
 ## 📚 Related Open Source Repositories
 
