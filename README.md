@@ -1,137 +1,115 @@
-简体中文 | [English](/README_en.md)
 
-<a href="https://www.bilibili.com/video/BV1t2g7z3ERK/" target="_blank">
+
+[简体中文](/README_zh.md) | English
+
+<a href="https://youtu.be/Po22da20Vc8" target="_blank">
   <img src="./res/main_video_thumbnail.jpg" alt="Duix Mobile thumbnail">
 </a>
 
-# 🚀🚀🚀 Duix Mobile —— 全网效果最好的移动端【实时对话数字人】
+# 🚀🚀🚀 Duix Mobile — The Best Real-time Interactive Digital Human Solution for Mobile Devices
 
-**📱 跨平台支持：iOS / Android / 平板 / 车载系统 / VR设备 / IoT终端 / 大屏交互等**
+**📱 Cross-platform support: iOS / Android / Tablet / Automotive / VR / IoT / Large Screen Interaction, etc.**
 
-## 😎 Duix Mobile 是什么？
+## 😎 What is Duix Mobile?
 
-本次由硅基智能开源的 Duix Mobile，是一个**可部署在手机或嵌入式屏幕的实时对话数字人 SDK**。
+Duix Mobile is an open-source SDK developed by GuijiAI that enables developers to create real-time interactive digital humans directly on **mobile devices** or **embedded screens**. It is designed for on-device deployment, with no dependency on cloud servers, making it lightweight, private, and highly responsive.
 
-开发者可以轻松集成自有或第三方的大语言模型（LLM）、语音识别（ASR）和语音合成（TTS）服务，快速构建能与用户自然对话的数字人界面。
+Developers can easily integrate their own or third-party Large Language Models (LLM), Automatic Speech Recognition (ASR), and Text-to-Speech (TTS) services to quickly build digital human interfaces that can naturally converse with users.
 
-Duix Mobile 支持一键跨平台部署（Android/iOS），上手门槛低，适用于智能客服、虚拟医生、虚拟律师、虚拟陪伴、虚拟教学等多种应用场景。
+Duix Mobile supports one-click cross-platform deployment (Android/iOS), has a low learning curve, and is suitable for various application scenarios such as intelligent customer service, virtual doctors, virtual lawyers, virtual companions, and virtual tutors.
 
-现在就开始构建你自己的交互数字人，大幅提升你的产品业绩吧！
+Start building your own interactive digital human now and significantly boost your product performance!
 
-## 🤩 有哪些应用场景？
+## 🤩 Application Scenarios
 
-- Duix Mobile 在 Andorid/iOS/Pad/大屏等设备下可以支持到多种实际应用场景；
-- 大幅度提升你的产品表现力，从而提升你的营收水平。
+- Duix Mobile supports various practical application scenarios across Android/iOS/Pad/large screen devices;
+- Significantly enhance your product performance and boost your revenue levels.
 
-![](./res/example.png)
+![example.png](./res/example.png)
 
-## 🥳 有什么优势？
+## 🥳 Advantages
 
-- **仿真数字人体验**：自然呈现面部表情、语调和情绪共鸣，打造「像人一样」的 AI 对话。
-- **支持流式音频**：边合成、边说话，支持中途打断、抢话，让数字人不仅会说话，而且更像「人」。
-- **极致响应速度**：数字人响应延迟低于 120ms（测试设备为骁龙® 8 Gen 2 SoC），带来毫秒级流畅互动体验。
-- **成本友好，随处部署**：轻量化运行，资源占用极低，轻松适配手机、平板、智能屏等终端。
-- **无惧弱网环境**：核心处理本地完成，对网络依赖极低，尤其适合金融、政务、法律等高稳定性场景。
-- **全行业适配**：模块化设计，支持快速定制，轻松打造各行业专属数字人解决方案。
+- **Realistic Digital Human Experience**: Natural facial expressions, tone, and emotional cues enable truly human-like conversations.
+- **Streaming Audio Support**: Synthesize and speak simultaneously, supports interruption and barge-in, making digital humans not only talk but also behave more "human-like".
+- **Ultra-Low Latency**: Digital human response latency under 120ms (tested on Snapdragon® 8 Gen 2 SoC), delivering millisecond-level smooth interaction experience.
+- **Cost-Friendly, Deploy Anywhere**: Lightweight operation, extremely low resource consumption, easily adaptable to phones, tablets, smart screens, and other terminals.
+- **Stable in Poor Networks**: Core functions run locally with low network dependence, ideal for finance, government, and legal use cases.
+- **Modular & Customizable**: Designed with modularity to support fast customization of industry-specific digital human solutions.
 
-## 📑 开发文档
+## 📑 Development Documentation
 
-- Android 开发者：[Duix Mobile SDK for Android](./duix-android/dh_aigc_android/README.md)
-- iOS 开发者：[Duix Mobile SDK for iOS](./duix-ios/GJLocalDigitalDemo/README.md)
+- For Android Developers: [Duix Mobile SDK for Android](./duix-android/dh_aigc_android/README_en.md)
+- For iOS Developers: [Duix Mobile SDK for iOS](./duix-ios/GJLocalDigitalDemo/README_en.md)
 
-## 💚 实际部署案例
+## 💚 Real Deployment Cases
 
-前往哔哩哔哩查看：
-- [《程序员与奶奶的虚拟重逢》](https://www.bilibili.com/video/BV1QSgczPESS)
-- [《Grok 遇见 Duix，谁才是你的真女友？》](https://www.bilibili.com/video/BV1Dbg3zbExC/)
+See on Bilibili:
 
-## ✨ 公用数字人下载 
+- ["A Programmer's Virtual Reunion with Grandma"](https://www.bilibili.com/video/BV1QSgczPESS)
+- ["Grok Meets Duix: Who Is Your Real Girlfriend?"](https://www.bilibili.com/video/BV1Dbg3zbExC/)
 
-- 以下是 Duix 提供的 4 个公有数字人，可供下载和集成。
+## ✨ Public Digital Human Downloads
+
+- Below are 4 public digital humans provided by Duix, available for download and integration.
 
 <table>
     <tr>
       <td align="center">
-        <img src="./res/avatar/7.jpg" alt="Model 7" width="100%"><br>
-        <a href="https://github.com/duixcom/Duix.mobile/releases/download/v2.0.0/713557460262982_2457fffb22e79c764c9b47d66f50c507.zip">下载</a>
+        <img src="./res/avatar/7.jpg" alt="Model 7" width="100%">
       </td>
       <td align="center">
-        <img src="./res/avatar/8.png" alt="Model 8" width="100%"><br>
-        <a href="https://github.com/duixcom/Duix.mobile/releases/download/v2.0.0/713276132638789_505586d97c3e935299f57c6262d9ece7_optim_m80.zip">下载</a>
+        <img src="./res/avatar/8.png" alt="Model 8" width="100%">
       </td>
       <td align="center">
-        <img src="./res/avatar/5.jpg" alt="Model 5" width="100%"><br>
-        <a href="https://github.com/duixcom/Duix.mobile/releases/download/v2.0.0/712880634105925_68b3f5a2208cc7438194d9d35fb0d5eb_optim_m80.zip">下载</a>
+        <img src="./res/avatar/5.jpg" alt="Model 5" width="100%">
       </td>
       <td align="center">
-        <img src="./res/avatar/6.png" alt="Model 6" width="100%"><br>
-        <a href="https://github.com/duixcom/Duix.mobile/releases/download/v2.0.0/713276017438789_23737a8bb6c21137dbdba34ca75b9365_optim_m80.zip">下载</a>
+        <img src="./res/avatar/6.png" alt="Model 6" width="100%">
       </td>
     </tr>
     </table>
 
-## 🤗 如何定制私有数字人？
+## 🤗 How to Customize Private Digital Humans?
 
-- 部署遇到问题？想要定制私有化数字人？
-- 请发邮件至邮箱：`amos.young@duix.com`
-- 或者加入技术支持群：
+- Having deployment issues? Want to customize private digital humans?
+- Please send an email to: **support@duix.com**
 
-<img src="./res/contact.png" alt="企业微信" width="260">
+## 🙌 Frequently Asked Questions
 
-## 🙌 常见问题解答
+- Can I integrate my own Large Language Model (LLM), Speech Recognition (ASR), and Text-to-Speech (TTS)?
+    
+    Yes, Duix Mobile supports full integration with custom or third-party LLM, ASR, and TTS services.
+    
+- Does it support "lip synchronization"?
+    
+    Yes, it does.
+    
+- Does it support "multilingual subtitles"?
+    
+    Yes, it does.
+    
+- How can I create custom digital humans?
+    
+    We offer 4 public avatar models. For custom avatars, please contact us via the email address above.
+    
+    Usually, providing a 15-second to 2-minute video is typically sufficient for customization.
+    
+- Is streaming audio supported?
+    
+    Yes, streaming audio with barge-in support is available from the July 17, 2025 release.
+    
+- Are voice start/end callbacks available?
+    
+    Yes, callback events for voice start and end are fully documented.
+    
 
-<details>
-<summary>我可以集成自己的大模型（LLM）、语音识别（ASR）和语音合成（TTS）吗？</summary>
+## 💡 Version Roadmap
 
-当然可以，你可以将 Duix Mobile 的数字人与你的自己 LLM、ASR 和 TTS 进行集成。
+- [x]  Streaming audio capability, launched on July 16, 2025
+- [ ]  Algorithm response optimization, expected by August 30, 2025
 
-</details>
+## 📚 Related Open Source Repositories
 
-<details>
-<summary>是否支持「唇动同步」？</summary>
-
-支持。
-
-</details>
-
-<details>
-<summary>是否支持「多语种字幕」？</summary>
-
-支持。
-
-</details>
-
-<details>
-<summary>我如何创建自定义数字人？</summary>
-
-我们提供了 8 个公有数字人，如需额外定制，请联系上方的企业微信。
-
-通常录制 15 秒至 2 分钟的视频即可完成定制过程，简单便捷。
-
-</details>
-
-<details>
-<summary>是否支持流式音频？</summary>
-
-支持，流式音频已于 2025 年 7 月 17 日版本更新中上线。
-
-</details>
-
-<details>
-<summary>是否提供数字人语音开始和结束的回调？</summary>
-
-是的，我们提供语音开始和结束的回调文档。
-
-</details>
-
-## 💡 版本计划
-
-- [x]  流式音频能力，2025 年 7 月 16 日上线
-- [ ]  算法响应优化，预计时间：2025 年 8 月 30 日前
-
-## 📚 相关开源仓库
-
-- GitHub: https://github.com/duixcom/Duix-Mobile
-- Gitee: https://gitee.com/duix/Duix-Mobile
-- GitCode: https://gitcode.com/openguiji/duix-mobile
-
+- GitHub: [https://github.com/duixcom/Duix-Mobile](https://github.com/duixcom/Duix-Mobile)
+- Gitee: [https://gitee.com/duix/Duix-Mobile](https://gitee.com/duix/Duix-Mobile)
+- GitCode: [https://gitcode.com/openguiji/duix-mobile](https://gitcode.com/openguiji/duix-mobile)
