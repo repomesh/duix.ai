@@ -54,14 +54,6 @@ Duix Mobile 支持一键跨平台部署（Android/iOS），上手门槛低，适
 <table>
     <tr>
       <td align="center">
-        <img src="./res/avatar/Emma.jpg" alt="Model 7" width="100%"><br>
-        <a href="https://github.com/duixcom/Duix.mobile/releases/download/v2.0.1/Emma.zip">下载</a>
-      </td>
-      <td align="center">
-        <img src="./res/avatar/Kai.jpg" alt="Model 8" width="100%"><br>
-        <a href="https://github.com/duixcom/Duix.mobile/releases/download/v2.0.1/Kai.zip">下载</a>
-      </td>
-      <td align="center">
         <img src="./res/avatar/Leo.jpg" alt="Model 5" width="100%"><br>
         <a href="https://github.com/duixcom/Duix.mobile/releases/download/v2.0.1/Leo.zip">下载</a>
       </td>
@@ -141,3 +133,8 @@ Duix Mobile 支持一键跨平台部署（Android/iOS），上手门槛低，适
 - Gitee: https://gitee.com/duix/Duix-Mobile
 - GitCode: https://gitcode.com/openguiji/duix-mobile
 
+## ❇️ Duix其他项目
+
+- [Duix.com](http://Duix.com) - Easily integrable cloud-based real-time interactive AI avatar
+- [Duix-Avatar](https://github.com/duixcom/Duix.Avatar) - The true open-source AI avatar video production
+- [Duix-Reface](https://github.com/duixcom/Duix-Reface) - Truly open-source real-time, high-fidelity face-swap engine for AI avatar
