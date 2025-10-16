@@ -6,11 +6,10 @@
 
 **📱 Cross-platform support: iOS / Android / Tablet / Automotive / VR / IoT / Large Screen Interaction, etc.**
 
-<a href=''>
-<video src="./res/main/mini.mp4" loop muted autoplay alt="Duix Mobile" controls>
-</a>
-<!-- [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Po22da20Vc8/0.jpg)](https://www.youtube.com/watch?v=Po22da20Vc8) -->
 
+<a href="https://www.youtube.com/watch?v=Po22da20Vc8" target="_blank">
+  <img src="./res/main_video_thumbnail.webp" alt="Duix Mobile thumbnail">
+</a>
 
 ## 😎 What is Duix Mobile?
 
