@@ -8,6 +8,7 @@
 
 # 🚀🚀🚀 Duix Mobile —— 全网效果最好的移动端【实时对话数字人】
 
+🔗 **Official website**：[www.duix.com](http://www.duix.com)
 **📱 跨平台支持：iOS / Android / 平板 / 车载系统 / VR设备 / IoT终端 / 大屏交互等**
 
 ## 😎 Duix Mobile 是什么？
