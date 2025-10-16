@@ -1,4 +1,4 @@
-[简体中文](/README_zh.md) | English
+English | [简体中文](/README_zh.md) 
 
 # 🚀🚀🚀 Duix Mobile — The Best Real-time Interactive AI Avatar Solution for Mobile Devices
 
@@ -64,10 +64,11 @@ Start building your own interactive AI avatar now and significantly boost your p
     </tr>
     </table>
 
+View more AI avatars online：[www.duix.com](http://www.duix.com)
 
 ## 🤗 How to Customize Private AI avatars?
 
-- Please send an email to: [**support@duix.com](mailto:support@duix.com)**
+- Please send an email to: [support@duix.com](mailto:support@duix.com)
 
 ## 🙌 Frequently Asked Questions
 
