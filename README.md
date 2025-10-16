@@ -7,7 +7,7 @@
 **📱 Cross-platform support: iOS / Android / Tablet / Automotive / VR / IoT / Large Screen Interaction, etc.**
 
 <div>
-<video src="./res/main/mini.mp4" muted autoplay alt="Duix Mobile" controls>
+<video src="./res/main/mini.mp4" loop muted autoplay alt="Duix Mobile" controls>
 </div>
 <!-- [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Po22da20Vc8/0.jpg)](https://www.youtube.com/watch?v=Po22da20Vc8) -->
 
