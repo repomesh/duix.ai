@@ -6,10 +6,7 @@
 
 **📱 Cross-platform support: iOS / Android / Tablet / Automotive / VR / IoT / Large Screen Interaction, etc.**
 
-
-<a href="https://www.youtube.com/watch?v=Po22da20Vc8" target="_blank">
-  <img src="./res/main_video_thumbnail.webp" alt="Duix Mobile thumbnail">
-</a>
+https://github.com/user-attachments/assets/6cfb59fc-d4bb-4c9f-8a2b-54009ce594a1
 
 ## 😎 What is Duix Mobile?
 
