@@ -40,8 +40,8 @@ Duix Mobile 支持一键跨平台部署（Android/iOS），上手门槛低，适
 
 ## 📑 开发文档
 
-- Android 开发者：[Duix Mobile SDK for Android](./duix-android/dh_aigc_android/README.md)
-- iOS 开发者：[Duix Mobile SDK for iOS](./duix-ios/GJLocalDigitalDemo/README.md)
+- Android 开发者：[Duix Mobile SDK for Android](./duix-android/dh_aigc_android/README_zh.md)
+- iOS 开发者：[Duix Mobile SDK for iOS](./duix-ios/GJLocalDigitalDemo/README_zh.md)
 
 ## 💚 实际部署案例
 
@@ -51,7 +51,7 @@ Duix Mobile 支持一键跨平台部署（Android/iOS），上手门槛低，适
 
 ## ✨ 公用数字人下载 
 
-- 以下是 Duix 提供的 6 个公有数字人，可供下载和集成。
+- 以下是 Duix 提供的 4 个公有数字人，可供下载和集成。
 
 <table>
     <tr>
