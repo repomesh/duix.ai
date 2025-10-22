@@ -36,8 +36,8 @@ Start building your own interactive AI avatar now and significantly boost your p
 
 ## 📑 Development Documentation
 
-- For Android Developers: [Duix Mobile SDK for Android](https://www.notion.so/duix-android/dh_aigc_android/README_en.md)
-- For iOS Developers: [Duix Mobile SDK for iOS](https://www.notion.so/duix-ios/GJLocalDigitalDemo/README_en.md)
+- For Android Developers: [Duix Mobile SDK for Android](./duix-android/dh_aigc_android/README.md)
+- For iOS Developers: [Duix Mobile SDK for iOS](./duix-ios/GJLocalDigitalDemo/README.md)
 
 ## ✨ Public AI avatar Downloads
 
