@@ -323,6 +323,10 @@ if (result == 1) {
 
 ## 10. Version History
 
+### v1.2.3.1
+
+- Fix the green shadow issue.
+
 ### v1.2.3
 
 - Added support for 128 models

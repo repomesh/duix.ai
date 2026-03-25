@@ -497,7 +497,7 @@ static GJLDigitalManager * manager = nil;
 
     if([DigitalHumanDriven manager].need_png==0)
     {
-        [[DigitalHumanDriven manager] maskrstPcmWithPath:paramPath index:(int)audioIndex array:bbox mskPath:maskkPath bfgPath:bfgPath bbgPath:bbgPath];
+        [[DigitalHumanDriven manager] maskrstPcmWithPath:bfgPath index:(int)audioIndex array:bbox mskPath:maskkPath bfgPath:bfgPath bbgPath:bbgPath];
     }
     else
     {
