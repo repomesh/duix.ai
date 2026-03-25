@@ -30,8 +30,7 @@
 //基础模型 git 地址下载较慢，请下载后自己管理加速
 #define BASEMODELURL   @"https://github.com/GuijiAI/duix.ai/releases/download/v1.0.0/gj_dh_res.zip"
 //数字人模型 git 地址下载较慢，请下载后自己管理加速
-#define DIGITALMODELURL @"https://github.com/GuijiAI/duix.ai/releases/download/v1.0.0/shuziren_v2.zip"
-
+#define DIGITALMODELURL @"https://github.com/GuijiAI/duix.ai/releases/download/v1.0.0/bendi3_20240518.zip"
 
 
 @interface ViewController ()<GJDownWavToolDelegate,UITextViewDelegate>
