@@ -1,4 +1,4 @@
-
+English | [中文](/README_zh.md) 
 
 # 🚀🚀🚀 Duix Mobile — The Best Real-time Interactive AI Avatar Solution for Mobile Devices
 
