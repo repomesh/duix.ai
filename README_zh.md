@@ -43,13 +43,27 @@ Duix Mobile 支持一键跨平台部署（Android/iOS），学习门槛低，适
 
 - Duix 提供了 4 个公开 AI 数字人模型，可供下载并集成。
 
-| 头像 | 下载 |
-|------|------|
-| <img src="./res/avatar/Leo.jpg" alt="Leo" width="100%"><br>Leo | <a href="https://github.com/duixcom/Duix.mobile/releases/download/v2.0.1/Leo.zip">下载</a> |
-| <img src="./res/avatar/Oliver.jpg" alt="Oliver" width="100%"><br>Oliver | <a href="https://github.com/duixcom/Duix.mobile/releases/download/v2.0.1/Oliver.zip">下载</a> |
-| <img src="./res/avatar/Sofia.jpg" alt="Sofia" width="100%"><br>Sofia | <a href="https://github.com/duixcom/Duix.mobile/releases/download/v2.0.1/Sofia.zip">下载</a> |
-| <img src="./res/avatar/Lily.jpg" alt="Lily" width="100%"><br>Lily | <a href="https://github.com/duixcom/Duix.mobile/releases/download/v2.0.1/Lily.zip">下载</a> |
-
+<table>
+    <tr>
+      <td align="center">
+        <img src="./res/avatar/Leo.jpg" alt="Model 5" width="100%"><br>
+        <a href="https://github.com/duixcom/Duix.mobile/releases/download/v2.0.1/Leo.zip">Download</a>
+      </td>
+      <td align="center">
+        <img src="./res/avatar/Oliver.jpg" alt="Model 6" width="100%"><br>
+        <a href="https://github.com/duixcom/Duix.mobile/releases/download/v2.0.1/Oliver.zip">Download</a>
+      </td>
+      <td align="center">
+        <img src="./res/avatar/Sofia.jpg" alt="Model 6" width="100%"><br>
+        <a href="https://github.com/duixcom/Duix.mobile/releases/download/v2.0.1/Sofia.zip">Download</a>
+      </td>
+      <td align="center">
+        <img src="./res/avatar/Lily.jpg" alt="Model 6" width="100%"><br>
+        <a href="https://github.com/duixcom/Duix.mobile/releases/download/v2.0.1/Lily.zip">Download</a>
+      </td>
+    </tr>
+    </table>
+    
 在线查看更多 AI 数字人：[www.duix.com](http://www.duix.com)
 
 ## 🤗 如何定制私有 AI 数字人？
