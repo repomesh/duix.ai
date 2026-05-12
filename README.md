@@ -1,4 +1,4 @@
-English 
+
 
 # 🚀🚀🚀 Duix Mobile — The Best Real-time Interactive AI Avatar Solution for Mobile Devices
 
