@@ -18,12 +18,12 @@ Duix Mobile 支持一键跨平台部署（Android/iOS），学习门槛低，适
 
 立刻构建自己的交互式 AI 数字人，大幅提升产品竞争力！
 
-## 🤩 应用场景
+## 🤩 有哪些应用场景？
 
-- Duix Mobile 支持 Android / iOS / Pad / 大屏设备上的多种实际应用场景；
-- 显著提升产品性能，提高商业收益。
+- Duix Mobile 在 Andorid/iOS/Pad/大屏等设备下可以支持到多种实际应用场景；
+- 大幅度提升你的产品表现力，从而提升你的营收水平。
 
-<!-- ![example.png](./res/example.png) -->
+![](./res/example.png)
 
 ## 🥳 优势
 
