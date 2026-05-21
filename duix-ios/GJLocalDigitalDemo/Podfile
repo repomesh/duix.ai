@@ -1,5 +1,6 @@
 # Uncomment the next line to define a global platform for your project
 # platform :ios, '9.0'
+
 post_install do |installer|
   installer.generated_projects.each do |project|
     project.targets.each do |target|
@@ -20,12 +21,26 @@ post_install do |installer|
       end
     end
   end
+
+  # ========== 新增：自动修复 AFNetworking 私有头文件引用 ==========
+  afnetworking_dir = installer.sandbox.pod_dir('AFNetworking')
+  if afnetworking_dir && Dir.exist?(afnetworking_dir)
+    private_header_import = '#import <netinet6/in6.h>'
+    Dir.glob(File.join(afnetworking_dir, '**/*.{h,m}')).each do |file|
+      if File.read(file).include?(private_header_import)
+        content = File.read(file)
+        new_content = content.gsub(private_header_import, '// #import <netinet6/in6.h>')
+        File.write(file, new_content)
+        puts "Patched AFNetworking file: #{file}"
+      end
+    end
+  end
 end
+
 target 'GJLocalDigitalDemo' do
   # Comment the next line if you don't want to use dynamic frameworks
   use_frameworks!
   pod 'AFNetworking'
   pod 'SSZipArchive'
   # Pods for GJLocalDigitalDemo
-  
 end
